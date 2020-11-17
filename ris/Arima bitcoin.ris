@@ -1,0 +1,42 @@
+TY  - CONF
+TI  - Systematic Erudition of Bitcoin Price Prediction using Machine Learning Techniques
+T2  - 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS)
+SP  - 594
+EP  - 598
+AU  - P. V. Rane
+AU  - S. N. Dhage
+PY  - 2019
+KW  - cryptocurrencies
+KW  - financial data processing
+KW  - learning (artificial intelligence)
+KW  - pricing
+KW  - time series
+KW  - Bitcoin market
+KW  - Bitcoin price data
+KW  - machine learning algorithms
+KW  - Bitcoin price prediction
+KW  - machine learning techniques
+KW  - top-ranking cryptocurrency
+KW  - time series prediction methods
+KW  - Bitcoin
+KW  - Predictive models
+KW  - Time series analysis
+KW  - Computational modeling
+KW  - Blockchain
+KW  - Online banking
+KW  - Bitcoin
+KW  - Bitcoin prediction
+KW  - cryptocurrency
+KW  - machine learning
+DO  - 10.1109/ICACCS.2019.8728424
+JO  - 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS)
+IS  - 
+SN  - 2575-7288
+VO  - 
+VL  - 
+JA  - 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS)
+Y1  - 15-16 March 2019
+AB  - Bitcoin (BTC) is an internet-based world's top-ranking cryptocurrency. Among widespread cryptocurrencies available in the market, Bitcoin is most experienced by the people due to anonymity and transparency in the system. Daily trends in the Bitcoin market has gained popularity among the spectators, investors, consumers and many more. Bitcoin price data exhibit desirable properties where some classical time series prediction methods exploit the behavior, producing poor predictions and also lack a probabilistic interpretation. This paper conducts an in-depth study on evolution of Bitcoin and also a systematic review is done on various machine learning algorithms used for predicting the prices. Comparative analysis envisions to select optimal technique to forecast prices more precisely.
+ER  - 
+
+

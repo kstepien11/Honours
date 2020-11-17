@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Predicting stock market index using fusion of machine learning techniques
+AU  - Patel, Jigar
+AU  - Shah, Sahil
+AU  - Thakkar, Priyank
+AU  - Kotecha, K
+JO  - Expert Systems with Applications
+VL  - 42
+IS  - 4
+SP  - 2162
+EP  - 2172
+PY  - 2015
+DA  - 2015/03/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2014.10.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417414006551
+KW  - Artificial Neural Networks
+KW  - Support Vector Regression
+KW  - Random Forest
+KW  - Stock market
+KW  - Hybrid models
+AB  - The paper focuses on the task of predicting future values of stock market index. Two indices namely CNX Nifty and S&P Bombay Stock Exchange (BSE) Sensex from Indian stock markets are selected for experimental evaluation. Experiments are based on 10years of historical data of these two indices. The predictions are made for 1–10, 15 and 30days in advance. The paper proposes two stage fusion approach involving Support Vector Regression (SVR) in the first stage. The second stage of the fusion approach uses Artificial Neural Network (ANN), Random Forest (RF) and SVR resulting into SVR–ANN, SVR–RF and SVR–SVR fusion prediction models. The prediction performance of these hybrid models is compared with the single stage scenarios where ANN, RF and SVR are used single-handedly. Ten technical indicators are selected as the inputs to each of the prediction models.
+ER  - 

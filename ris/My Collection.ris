@@ -1,0 +1,172 @@
+TY  - JOUR
+T1  - Cryptocurrency Trading: A Comprehensive Survey
+A1  - Fang, Fan
+A1  - Ventre, Carmine
+A1  - Basios, Michail
+A1  - Kong, Hoiliong
+A1  - Kanthan, Leslie
+A1  - Li, Lingbo
+A1  - Martinez-Regoband, David
+A1  - Wu, Fan
+Y1  - 2020///
+N2  - Since the inception of cryptocurrencies, an increasing number of financial
+institutions are getting involved in cryptocurrency trading. It is therefore
+important to summarise existing research papers and results on cryptocurrency
+trading. This paper provides a comprehensive survey of cryptocurrency trading
+research, by covering 118 research papers on various aspects of cryptocurrency
+trading (e.g.,cryptocurrency trading systems, bubble and extreme condition,
+prediction of volatility and return,crypto-assets portfolio construction and
+crypto-assets, technical trading and others). This paper also analyses
+datasets, research trends and distribution among research objects
+(contents/properties) and technologies, concluding with promising opportunities
+in cryptocurrency trading.
+ER  - 
+TY  - JOUR
+T1  - Time Series Data Analysis For Stock Market Prediction Using Data Mining Techniques With R
+A1  - Angadi, Mahantesh C
+A1  - Kulkarni, Amogh P
+Y1  - 2015///
+PB  - Udaipur: International Journal of Advanced Research in Computer Science
+JF  - International journal of advanced research in computer science
+VL  - 6
+IS  - 6
+CY  - Udaipur
+N2  - Nowadays, the stock market is attracting more and more people's notice with its high challenging risks and high return over. A stock exchange market depicts savings and investments that are advantageous to increase the effectiveness of the national economy. The future stock returns have some predictive relationships with the publicly available information of present and historical stock market indices. ARIMA is a statistical model which is known to be efficient for time series forecasting especially for short-term prediction. In this paper, we propose a model for forecasting the stock market trends based on the technical analysis using historical stock market data and ARIMA model. This model will automate the process of direction of future stock price indices and provides assistance for financial specialists to choose the better timing for purchasing and selling of stocks. The results are shown in terms of visualizations using R programming language. The obtained results revealed that the ARIMA model has a strong potential for short-term prediction of stock market trends.
+ER  - 
+TY  - JOUR
+T1  - Stock market time series forecasting with data mining methods
+A1  - Badics, Milán Csaba
+Y1  - 2014///
+ER  - 
+TY  - CONF
+T1  - A comparative study of predictive algorithms for business analytics and decision support systems: Finance as a case study
+A1  - Ouahilal, M
+A1  - Mohajir, M El
+A1  - Chahhou, M
+A1  - Mohajir, B E El
+Y1  - 2016///
+KW  - Business
+KW  - Business analytics
+KW  - Data analysis
+KW  - Decision support system
+KW  - Financial time series forecasting
+KW  - L'Oréal financial dataset
+KW  - Numerical models
+KW  - Prediction algorithms
+KW  - Predictive analytics
+KW  - Predictive models
+KW  - Regression algorithms
+KW  - Regression tree analysis
+KW  - business analytics
+KW  - decision support systems
+KW  - decision tree regression
+KW  - decision trees
+KW  - economic forecasting
+KW  - financial time series forecasting
+KW  - financial time-series prediction
+KW  - multiple linear regression
+KW  - performance assessment
+KW  - predictive algorithms
+KW  - regression analysis
+KW  - stock market prediction
+KW  - stock markets
+KW  - support vector machines
+KW  - support vector regression
+KW  - time series
+JF  - 2016 International Conference on Information Technology for Organizations Development (IT4OD)
+SP  - 1
+EP  - 6
+SN  -  VO  -
+DO  - 10.1109/IT4OD.2016.7479258
+N2  - Stock market prediction is regarded as a challenging task of financial time-series prediction. There have been many studies using machine learning techniques in this area. A large number of successful applications have shown that regression algorithms can be very useful tools for time-series modelling and forecasting. In this paper we run a comparative study of three of these algorithms: Multiple Linear Regression, Support Vector Regression and Decision Tree Regression in order to determine their performances in term of implementing financial time series forecasts. To assess the performance of these algorithms, we have conducted experiments using L'Oréal financial dataset. The results exhibit that support vector regression produced the best forecasts.
+ER  - 
+TY  - JOUR
+T1  - The best of two worlds: Forecasting high frequency volatility for cryptocurrencies and traditional currencies with Support Vector Regression
+A1  - Peng, Yaohao
+A1  - Albuquerque, Pedro Henrique Melo
+A1  - Camboim de Sá, Jader Martins
+A1  - Padula, Ana Julia Akaishi
+A1  - Montenegro, Mariana Rosa
+Y1  - 2018///
+KW  - Cryptocurrency
+KW  - Exchange rates
+KW  - GARCH
+KW  - Machine learning
+KW  - Support vector machines
+KW  - Volatility forecasting
+JF  - Expert Systems with Applications
+VL  - 97
+SP  - 177
+EP  - 192
+DO  - https://doi.org/10.1016/j.eswa.2017.12.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417308163
+N2  - This paper provides an evaluation of the predictive performance of the volatility of three cryptocurrencies and three currencies with recognized stores of value using daily and hourly frequency data. We combined the traditional GARCH model with the machine learning approach to volatility estimation, estimating the mean and volatility equations using Support Vector Regression (SVR) and comparing to GARCH family models. Furthermore, the models’ predictive ability was evaluated using Diebold-Mariano test and Hansen’s Model Confidence Set. The analysis was reiterated for both low and high frequency data. Results showed that SVR-GARCH models managed to outperform GARCH, EGARCH and GJR-GARCH models with Normal, Student’s t and Skewed Student’s t distributions. For all variables and both time frequencies, the SVR-GARCH model exhibited statistical significance towards its superiority over GARCH and its extensions.
+ER  - 
+TY  - JOUR
+T1  - Predicting stock market index using fusion of machine learning techniques
+A1  - Patel, Jigar
+A1  - Shah, Sahil
+A1  - Thakkar, Priyank
+A1  - Kotecha, K
+Y1  - 2015///
+KW  - Artificial Neural Networks
+KW  - Hybrid models
+KW  - Random Forest
+KW  - Stock market
+KW  - Support Vector Regression
+JF  - Expert Systems with Applications
+VL  - 42
+IS  - 4
+SP  - 2162
+EP  - 2172
+DO  - https://doi.org/10.1016/j.eswa.2014.10.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417414006551
+N2  - The paper focuses on the task of predicting future values of stock market index. Two indices namely CNX Nifty and S&P Bombay Stock Exchange (BSE) Sensex from Indian stock markets are selected for experimental evaluation. Experiments are based on 10years of historical data of these two indices. The predictions are made for 1–10, 15 and 30days in advance. The paper proposes two stage fusion approach involving Support Vector Regression (SVR) in the first stage. The second stage of the fusion approach uses Artificial Neural Network (ANN), Random Forest (RF) and SVR resulting into SVR–ANN, SVR–RF and SVR–SVR fusion prediction models. The prediction performance of these hybrid models is compared with the single stage scenarios where ANN, RF and SVR are used single-handedly. Ten technical indicators are selected as the inputs to each of the prediction models.
+ER  - 
+TY  - CONF
+T1  - Comparison of Predictive Algorithms: Backpropagation, SVM, LSTM and Kalman Filter for Stock Market
+A1  - Karmiani, D
+A1  - Kazi, R
+A1  - Nambisan, A
+A1  - Shah, A
+A1  - Kamble, V
+Y1  - 2019///
+KW  - Artificial Neural Network(ANN)
+KW  - Back-propgation
+KW  - Kalman filter
+KW  - Kalman filters
+KW  - LSTM
+KW  - Long Short-Term Memory(LSTM)
+KW  - Recurrent Neural Netwrok(RNN)
+KW  - SVM
+KW  - Support Vector Machines(SVM)
+KW  - T-tests
+KW  - artificial neural Networks
+KW  - backpropagation
+KW  - backpropagation algorithm
+KW  - comparative analysis
+KW  - complex process
+KW  - economic forecasting
+KW  - feed forward network
+KW  - feedforward neural nets
+KW  - gradient descent algorithm
+KW  - gradient methods
+KW  - higher accuracy rates
+KW  - long short-term memory
+KW  - predictive algorithms
+KW  - recurrent neural nets
+KW  - recurrent neural network
+KW  - stock market
+KW  - stock markets
+KW  - stock value prediction
+KW  - support vector machines
+KW  - support vector machines algorithm
+KW  - time series
+KW  - time series forecasting algorithm
+JF  - 2019 Amity International Conference on Artificial Intelligence (AICAI)
+SP  - 228
+EP  - 234
+SN  -  VO  -
+DO  - 10.1109/AICAI.2019.8701258
+N2  - The variation and dependency on different parameters of stock market makes prediction a complex process. Artificial neural Networks have been proven to be useful in such cases to predict the stock values. The parameters involved and the commonly used algorithms are discussed and compared in this paper. In case of backpropagation algorithm, a feed forward network is present and weights are modified by back propagating the error. Similarly, significant modification is introduced in Sup-port Vector Machines Algorithm(SVMA) which results in higher accuracy rates. Presence of kernel and other parameters make it more flexible. Long Short-Term Memory(LSTM), another commonly used time series forecasting algorithm, is a special type of Recurrent Neural Network(RNN) that uses gradient descent algorithm. This paper provides a comparative analysis between these algorithms on the basis of accuracy, variation and time required for different number of epochs. The T-test hypothesis test was used for further analysis to test the reliability of each algorithm.
+ER  - 

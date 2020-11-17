@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - The best of two worlds: Forecasting high frequency volatility for cryptocurrencies and traditional currencies with Support Vector Regression
+AU  - Peng, Yaohao
+AU  - Albuquerque, Pedro Henrique Melo
+AU  - Camboim de Sá, Jader Martins
+AU  - Padula, Ana Julia Akaishi
+AU  - Montenegro, Mariana Rosa
+JO  - Expert Systems with Applications
+VL  - 97
+SP  - 177
+EP  - 192
+PY  - 2018
+DA  - 2018/05/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2017.12.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417308163
+KW  - Volatility forecasting
+KW  - Machine learning
+KW  - GARCH
+KW  - Cryptocurrency
+KW  - Support vector machines
+KW  - Exchange rates
+AB  - This paper provides an evaluation of the predictive performance of the volatility of three cryptocurrencies and three currencies with recognized stores of value using daily and hourly frequency data. We combined the traditional GARCH model with the machine learning approach to volatility estimation, estimating the mean and volatility equations using Support Vector Regression (SVR) and comparing to GARCH family models. Furthermore, the models’ predictive ability was evaluated using Diebold-Mariano test and Hansen’s Model Confidence Set. The analysis was reiterated for both low and high frequency data. Results showed that SVR-GARCH models managed to outperform GARCH, EGARCH and GJR-GARCH models with Normal, Student’s t and Skewed Student’s t distributions. For all variables and both time frequencies, the SVR-GARCH model exhibited statistical significance towards its superiority over GARCH and its extensions.
+ER  - 

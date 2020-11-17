@@ -1,0 +1,51 @@
+TY  - CONF
+TI  - A comparative study of predictive algorithms for business analytics and decision support systems: Finance as a case study
+T2  - 2016 International Conference on Information Technology for Organizations Development (IT4OD)
+SP  - 1
+EP  - 6
+AU  - M. Ouahilal
+AU  - M. El Mohajir
+AU  - M. Chahhou
+AU  - B. E. El Mohajir
+PY  - 2016
+KW  - decision support systems
+KW  - decision trees
+KW  - economic forecasting
+KW  - regression analysis
+KW  - stock markets
+KW  - support vector machines
+KW  - time series
+KW  - predictive algorithms
+KW  - business analytics
+KW  - decision support systems
+KW  - stock market prediction
+KW  - financial time-series prediction
+KW  - multiple linear regression
+KW  - support vector regression
+KW  - decision tree regression
+KW  - financial time series forecasting
+KW  - performance assessment
+KW  - L'Oréal financial dataset
+KW  - Prediction algorithms
+KW  - Predictive models
+KW  - Business
+KW  - Data analysis
+KW  - Numerical models
+KW  - Regression tree analysis
+KW  - Predictive analytics
+KW  - Business analytics
+KW  - Financial time series forecasting
+KW  - Decision support system
+KW  - Regression algorithms
+DO  - 10.1109/IT4OD.2016.7479258
+JO  - 2016 International Conference on Information Technology for Organizations Development (IT4OD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Information Technology for Organizations Development (IT4OD)
+Y1  - 30 March-1 April 2016
+AB  - Stock market prediction is regarded as a challenging task of financial time-series prediction. There have been many studies using machine learning techniques in this area. A large number of successful applications have shown that regression algorithms can be very useful tools for time-series modelling and forecasting. In this paper we run a comparative study of three of these algorithms: Multiple Linear Regression, Support Vector Regression and Decision Tree Regression in order to determine their performances in term of implementing financial time series forecasts. To assess the performance of these algorithms, we have conducted experiments using L'Oréal financial dataset. The results exhibit that support vector regression produced the best forecasts.
+ER  - 
+
+

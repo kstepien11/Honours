@@ -1,0 +1,55 @@
+TY  - CONF
+TI  - Comparison of Predictive Algorithms: Backpropagation, SVM, LSTM and Kalman Filter for Stock Market
+T2  - 2019 Amity International Conference on Artificial Intelligence (AICAI)
+SP  - 228
+EP  - 234
+AU  - D. Karmiani
+AU  - R. Kazi
+AU  - A. Nambisan
+AU  - A. Shah
+AU  - V. Kamble
+PY  - 2019
+KW  - backpropagation
+KW  - economic forecasting
+KW  - feedforward neural nets
+KW  - gradient methods
+KW  - Kalman filters
+KW  - recurrent neural nets
+KW  - stock markets
+KW  - support vector machines
+KW  - time series
+KW  - stock market
+KW  - complex process
+KW  - artificial neural Networks
+KW  - backpropagation algorithm
+KW  - feed forward network
+KW  - higher accuracy rates
+KW  - gradient descent algorithm
+KW  - comparative analysis
+KW  - predictive algorithms
+KW  - SVM
+KW  - Kalman filter
+KW  - stock value prediction
+KW  - support vector machines algorithm
+KW  - long short-term memory
+KW  - time series forecasting algorithm
+KW  - recurrent neural network
+KW  - LSTM
+KW  - Artificial Neural Network(ANN)
+KW  - Support Vector Machines(SVM)
+KW  - Long Short-Term Memory(LSTM)
+KW  - Back-propgation
+KW  - Recurrent Neural Netwrok(RNN)
+KW  - T-tests
+DO  - 10.1109/AICAI.2019.8701258
+JO  - 2019 Amity International Conference on Artificial Intelligence (AICAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Amity International Conference on Artificial Intelligence (AICAI)
+Y1  - 4-6 Feb. 2019
+AB  - The variation and dependency on different parameters of stock market makes prediction a complex process. Artificial neural Networks have been proven to be useful in such cases to predict the stock values. The parameters involved and the commonly used algorithms are discussed and compared in this paper. In case of backpropagation algorithm, a feed forward network is present and weights are modified by back propagating the error. Similarly, significant modification is introduced in Sup-port Vector Machines Algorithm(SVMA) which results in higher accuracy rates. Presence of kernel and other parameters make it more flexible. Long Short-Term Memory(LSTM), another commonly used time series forecasting algorithm, is a special type of Recurrent Neural Network(RNN) that uses gradient descent algorithm. This paper provides a comparative analysis between these algorithms on the basis of accuracy, variation and time required for different number of epochs. The T-test hypothesis test was used for further analysis to test the reliability of each algorithm.
+ER  - 
+
+

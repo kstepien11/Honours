@@ -1,0 +1,13 @@
+TY  - JOUR
+JF  - International journal of advanced research in computer science
+PB  - Udaipur: International Journal of Advanced Research in Computer Science
+Y1  - 2015
+VL  - 6
+ID  - TN_cdi_proquest_journals_1725325415
+N2  - Nowadays, the stock market is attracting more and more people's notice with its high challenging risks and high return over. A stock exchange market depicts savings and investments that are advantageous to increase the effectiveness of the national economy. The future stock returns have some predictive relationships with the publicly available information of present and historical stock market indices. ARIMA is a statistical model which is known to be efficient for time series forecasting especially for short-term prediction. In this paper, we propose a model for forecasting the stock market trends based on the technical analysis using historical stock market data and ARIMA model. This model will automate the process of direction of future stock price indices and provides assistance for financial specialists to choose the better timing for purchasing and selling of stocks. The results are shown in terms of visualizations using R programming language. The obtained results revealed that the ARIMA model has a strong potential for short-term prediction of stock market trends.
+AU  - Mahantesh C Angadi
+AU  - Amogh P Kulkarni
+CY  - Udaipur
+IS  - 6
+T1  - Time Series Data Analysis For Stock Market Prediction Using Data Mining Techniques With R
+ER  - 
